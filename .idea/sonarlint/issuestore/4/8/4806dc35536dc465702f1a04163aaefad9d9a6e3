@@ -1,0 +1,28 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì®Êí
+2
+java:S1643"Use a StringBuilder instead.(§ŽàŠ
+2
+java:S1643"Use a StringBuilder instead.(§ŽàŠ
+7
+java:S1643!"Use a StringBuilder instead.(µÈãÌþÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÄÖ¦ù
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜Ôûý
+j
+java:S1450"TRemove the "space" field and declare it as a local variable in the relevant methods.(²õ—ƒ
+Z
+java:S1854"?Remove this useless assignment to local variable "spaceLenght".(…íÁ·ùÿÿÿÿ
+S
+java:S1117"8Rename "space" which hides the field declared at line 4.(Ä™¶Ñøÿÿÿÿ
+V	java:S125	"<This block of commented-out lines of code should be removed.(®‚•çûÿÿÿÿ
+K
+java:S1481"0Remove this unused "spaceLenght" local variable.(…íÁ·ùÿÿÿÿ
+V
+java:S1172";Remove this unused method parameter "lenghtCentralElement".(¨À¬‚ùÿÿÿÿ
+S
+java:S1117"8Rename "space" which hides the field declared at line 4.(Ä™¶Ñøÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(®‚•çûÿÿÿÿ
+S
+java:S1117"8Rename "space" which hides the field declared at line 4.(Ä™¶Ñøÿÿÿÿ
+?
+java:S1068")Remove this unused "space" private field.(²õ—ƒ

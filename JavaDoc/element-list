@@ -1,0 +1,8 @@
+com.Fenix.ESportTournament
+com.Fenix.ESportTournament.bl.parsing
+com.Fenix.ESportTournament.bl.Reload
+com.Fenix.ESportTournament.bl.UserData
+com.Fenix.ESportTournament.bl.UserData.authorization
+com.Fenix.ESportTournament.bl.UserData.registration
+com.Fenix.ESportTournament.da.TextWork
+com.Fenix.ESportTournament.ui.Menu
